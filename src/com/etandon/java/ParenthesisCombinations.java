@@ -13,7 +13,7 @@ public class ParenthesisCombinations {
 	 Given number n, print all valid combinations of corresponding number of open and closed braces
 	 */
 	public static void main(String[] args) {
-		int n=4;
+		int n=3;
 		StringBuilder output=new StringBuilder("");
 		for(int i=0;i<n;i++)
 		   {
