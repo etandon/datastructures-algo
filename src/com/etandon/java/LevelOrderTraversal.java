@@ -28,7 +28,7 @@ public class LevelOrderTraversal {
         root.right=new Node();
         root.right.data=2;
         root.right.left=new Node();
-        root.right.
+        root.right.left.data=6;
         LevelOrder(root);
         
 	}
